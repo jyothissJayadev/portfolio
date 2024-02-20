@@ -1,0 +1,17 @@
+.container{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+.container form{
+    width: 50%;
+}
+Button{
+    color: rgb(19, 42, 61);
+}
